@@ -20,3 +20,7 @@ Components Required:-
 16- Diode
 17- Transistor
 18- Cable and Connector
+
+
+
+Please Refer to the "Project_Report_Major".py for details.
